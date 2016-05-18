@@ -68,20 +68,41 @@ html, body{
 }
 /*-----------------Fin--Plantilla--------------------*/
 
-/*------------------Div-Pasillos-----------------------------*/
+/*------------------Div-Categorias-----------------------------*/
 .contenedorPasillos{
     background-color: rgba(255, 255, 255, 1);
 }
 
-.iconosPasillos{
-    width: 17%;
-    margin-bottom: 2%;
-    margin-top: 2%;
+.iconosCategorias{
+    margin-bottom: 1%;
+    margin-top: 1%;
 }
 
-.spanPasillos{
-    margin-top: 6%;
-    font-size: 1.5rem;
-    color: #263238;
+.subcategoria{
+    font-size: 1.2rem;
+    margin-left: 20%;
+    margin-bottom: 1%;
+    margin-top: 1%;
 }
-/*----------Fin--Div-Pasillos-----------------------*/
+
+.spanCategorias{
+    font-size: 1.5rem;
+    margin-left: 5%;
+    margin-top: 4%;
+}
+/*----------Fin--Div-Categorias-----------------------*/
+
+/*------------------Div-Productos-----------------------------*/
+
+.titulo{
+    font-size: 1.3rem;
+}
+
+.divTexto{
+    margin-top: 2%;
+    font-size: 1.1rem;
+}
+
+.margenEstrella{
+    margin-top: 2%;
+}
